@@ -1,0 +1,383 @@
+Significant SNP	Annotations	Chr	GWAS	ID	R2	SNP	Start	Stop	Strand	Trait	
+S06_43019594	60S acidic ribosomal protein, putative, expressed	6	mean	Sobic.006G067800	0.7267	S06_42828145	42823157	42825066	-	Tertiary_Branches	
+S01_79684513	AAA-type ATPase family protein, putative, expressed	1	mean	Sobic.001G533600	1	S01_79684513	79672454	79675200	+	Primary_Branch_Top	
+S08_10167563	AAA-type ATPase family protein, putative, expressed	8	diff	Sobic.008G073500		S08_10167563	10180976	10188144	-	Primary_Branch_Length_Top	
+S06_56838554	acyltransferase, putative, expressed	6	mean	Sobic.006G221500	1	S06_56838554	56819175	56821962	+	Primary_Branch_Bottom	
+S01_78466406	adenylate kinase, putative, expressed	1	mean	Sobic.001G518500	1	S01_78466406	78474468	78477687	-	Rahcis_Length	
+S06_5754774	amidase, putative, expressed	6	mean	Sobic.006G028000	1	S06_5754774	5762025	5765519	+	Primary_Branch_Top	
+S06_5754774	amidase, putative, expressed	6	mean	Sobic.006G028000	1	S06_5755446	5762025	5765519	+	Primary_Branch_Top	
+S02_63249141	amino acid permease family protein, putative, expressed	2	mean	Sobic.002G243300	1	S02_63249141	63239234	63240605	-	Primary_Branch_Top	
+S02_61339811	ANTH domain containing protein, expressed	2	mean	Sobic.002G221500	1	S02_61339811	61343147	61344844	+	Rahcis_Diameter	
+S07_60133062	AP2 domain containing protein, expressed	7	mean	Sobic.007G164900	0.770368	S07_59984297	59977348	59978348	-	Rahcis_Length	Interesting, Check with ids1 in maize
+S07_59984297	AP2 domain containing protein, expressed	7	mean	Sobic.007G164900	1	S07_59984297	59977348	59978348	-	Infloresence_Length	Interesting, Check with ids1 in maize
+S06_54876898	AT hook motif domain containing protein, expressed	6	mean	Sobic.006G196900	0.703289	S06_54958199	54942454	54946542	-	Primary_Branch_Number	
+S06_54876898	AT hook motif domain containing protein, expressed	6	mean	Sobic.006G196900	0.824386	S06_54958229	54942454	54946542	-	Primary_Branch_Number	
+S08_2119686	AT hook motif family protein, expressed	8	mean	Sobic.008G024100	1	S08_2119686	2124378	2130609	-	Primary_Branch_Number	
+S08_60586443	ATCHX, putative, expressed	8	mean	Sobic.008G172500	1	S08_60586443	60596911	60601199	+	Rahcis_Length	
+S01_68077236	ATP synthase C chain, putative, expressed	1	diff	Sobic.001G394532		S01_68077236	68057968	68059643	+	Primary_Branch_Length_Bottom	
+S08_62515307	ATPase 3, putative, expressed	8	mean	Sobic.008G191200	1	S08_62515307	62505427	62509001	-	Primary_Branch_Top	
+S08_62515307	ATPase 3, putative, expressed	8	mean	Sobic.008G191300	1	S08_62515307	62510160	62511817	-	Primary_Branch_Top	
+S10_3974797	auxin efflux carrier component, putative, expressed	10	mean	Sobic.010G051000	1	S10_3974797	3956093	3958912	-	Primary_Branch_Number	
+S08_3151276	avr9/Cf-9 rapidly elicited protein, putative, expressed	8	mean	Sobic.008G034000	1	S08_3151276	3138888	3140962	-	Infloresence_Length	
+S08_10167563	B-box zinc finger family protein, putative, expressed	8	diff	Sobic.008G073400		S08_10167563	10177621	10179750	+	Primary_Branch_Length_Top	
+S03_61179123	B3 DNA binding domain containing protein, expressed	3	diff	Sobic.003G275400		S03_61179123	61160853	61165496	+	Primary_Branch_Length_Bottom	
+S04_40634218	basic helix-loop-helix family protein, putative, expressed	4	diff	Sobic.004G140000		S04_40634218	40614975	40619158	+	Rachis_Diameter	
+S09_50347176	beta-galactosidase, putative, expressed	9	mean	Sobic.009G146500	1	S09_50347176	50348564	50358054	-	Primary_Branch_Bottom	
+S03_64735569	bHelix-loop-helix transcription factor, putative, expressed	3	diff	Sobic.003G319800		S03_64735569	64752392	64755562	-	Rachis_Diameter	
+S02_63249141	BPI/LBP family protein At3g20270 precursor, putative, expressed	2	mean	Sobic.002G243800	1	S02_63249141	63262356	63267320	-	Primary_Branch_Top	
+S10_2345697	CAF1 family ribonuclease containing protein, putative, expressed	10	mean	Sobic.010G028900	1	S10_2345697	2341982	2342941	+	Infloresence_Length	
+S02_52998308	carotenoid cleavage dioxygenase, putative, expressed	2	mean	Sobic.002G168700	0.776247	S02_53106260	53117356	53128807	-	Primary_Branch_Number	
+S10_7457863	cellulase, putative, expressed	10	mean	Sobic.010G086500	1	S10_7457863	7438985	7442978	-	Primary_Branch_Top	
+S03_2616292	CK1_CaseinKinase_1a.5 - CK1 includes the casein kinase 1 kinases, expressed	3	mean	Sobic.003G029700	1	S03_2616292	2611997	2619784	+	Infloresence_Length	
+S08_10167563	clathrin adaptor complex small chain domain containing protein, expressed	8	diff	Sobic.008G073300		S08_10167563	10167688	10172586	-	Primary_Branch_Length_Top	
+S06_5754774	cleavage and polyadenylation specificity factor subunit 1, putative, expressed	6	mean	Sobic.006G033101	0.797523	S06_7758163	7734133	7780414	-	Primary_Branch_Top	
+S03_2616292	coatomer alpha subunit, putative, expressed	3	mean	Sobic.003G029600	1	S03_2616292	2602291	2608868	+	Infloresence_Length	
+S01_6673848	COBRA, putative, expressed	1	mean	Sobic.001G086000	1	S01_6673844	6659857	6663478	+	Primary_Branch_Number	
+S01_6673848	COBRA, putative, expressed	1	mean	Sobic.001G086000	1	S01_6673848	6659857	6663478	+	Primary_Branch_Number	
+S01_6673848	COBRA, putative, expressed	1	mean	Sobic.001G086200	1	S01_6673844	6667078	6670492	+	Primary_Branch_Number	
+S01_6673848	COBRA, putative, expressed	1	mean	Sobic.001G086200	1	S01_6673848	6667078	6670492	+	Primary_Branch_Number	
+S10_2345697	coiled-coil domain-containing protein 97, putative, expressed	10	mean	Sobic.010G029100	1	S10_2345697	2352657	2355041	+	Infloresence_Length	
+S06_56838554	COP9 signalosome complex subunit 5b, putative, expressed	6	mean	Sobic.006G245700	0.747685	S06_58549348	58530878	58534467	+	Primary_Branch_Bottom	
+S09_6188158	Cupin domain containing protein, expressed	9	diff	Sobic.009G059100		S09_6188158	6198295	6199362	+	Rachis_Length	
+S10_7457863	cyclin-T1-4, putative, expressed	10	mean	Sobic.010G086600	1	S10_7457863	7443348	7448447	+	Primary_Branch_Top	
+S01_6673848	cytochrome b5-like Heme/Steroid binding domain containing protein, expressed	1	mean	Sobic.001G086300	1	S01_6673844	6671844	6673247	-	Primary_Branch_Number	
+S01_6673848	cytochrome b5-like Heme/Steroid binding domain containing protein, expressed	1	mean	Sobic.001G086300	1	S01_6673848	6671844	6673247	-	Primary_Branch_Number	
+S03_60648881	cytochrome P450, putative, expressed	3	diff	Sobic.003G269600		S03_60648881	60633944	60636136	+	Primary_Branch_Length_Bottom	
+S03_2661466	cytokinin dehydrogenase precursor, putative, expressed	3	mean	Sobic.003G029900	1	S03_2661466	2655907	2661093	+	Primary_Branch_Number	
+S01_78466406	DEF7 - Defensin and Defensin-like DEFL family, expressed	1	mean	Sobic.001G518700	1	S01_78466406	78485201	78486180	-	Rahcis_Length	
+S06_56838554	dehydrogenase, putative, expressed	6	mean	Sobic.006G221850	1	S06_56838554	56846853	56848220	-	Primary_Branch_Bottom	
+S06_59371744	dirigent-like protein pDIR17, putative, expressed	6	mean	Sobic.006G257100	1	S06_59371744	59352942	59353934	-	Primary_Branch_Top	
+S02_12355636	disease resistance RPP13-like protein 1, putative, expressed	2	diff	Sobic.002G104500		S02_12355636	12371690	12375698	+	Primary_Branch_Length_Top	
+S06_54876898	DNA binding protein, putative, expressed	6	mean	Sobic.006G197100	0.703289	S06_54958199	54952131	54954631	-	Primary_Branch_Number	
+S06_54876898	DNA binding protein, putative, expressed	6	mean	Sobic.006G197100	0.824386	S06_54958229	54952131	54954631	-	Primary_Branch_Number	
+S08_3151276	DNA binding protein, putative, expressed	8	mean	Sobic.008G034200	1	S08_3151276	3158946	3162301	+	Infloresence_Length	
+S09_50347176	dnaJ domain containing protein, expressed	9	mean	Sobic.009G146400	1	S09_50347176	50325863	50328782	-	Primary_Branch_Bottom	
+S05_354065	DUF260 domain containing protein, putative, expressed	5	mean	Sobic.005G004700	1	S05_354065	372277	373283	+	Primary_Branch_Bottom	
+S07_60133062	DUF260 domain containing protein, putative, expressed	7	mean	Sobic.007G165100	0.770368	S07_59984297	59994953	59996526	+	Rahcis_Length	
+S07_59984297	DUF260 domain containing protein, putative, expressed	7	mean	Sobic.007G165100	1	S07_59984297	59994953	59996526	+	Infloresence_Length	
+S06_54876898	DUF581 domain containing protein, expressed	6	mean	Sobic.006G193600	0.704428	S06_54688705	54693063	54695379	-	Primary_Branch_Number	
+S04_8955384	early nodulin 93 ENOD93 protein, putative, expressed	4	mean	Sobic.004G099900	1	S04_8955384	8934080	8937824	+	Rahcis_Diameter	
+S04_8955384	early nodulin 93 ENOD93 protein, putative, expressed	4	mean	Sobic.004G099900	1	S04_8955399	8934080	8937824	+	Rahcis_Diameter	
+S04_8955384	early nodulin 93 ENOD93 protein, putative, expressed	4	mean	Sobic.004G099900	1	S04_8955402	8934080	8937824	+	Rahcis_Diameter	
+S01_78466406	EF hand family protein, putative, expressed	1	mean	Sobic.001G518400	1	S01_78466406	78463104	78471535	+	Rahcis_Length	
+S06_5754774	endonuclease/exonuclease/phosphatase family protein, putative, expressed	6	mean	Sobic.006G032900	0.797523	S06_7493364	7483839	7493581	+	Primary_Branch_Top	
+S01_15300729	expressed protei	1	diff	Sobic.001G180300		S01_15300729	15292682	15294593	-	Primary_Branch_Length_Bottom	
+S01_15300729	expressed protei	1	diff	Sobic.001G180500		S01_15300729	15303691	15304827	+	Primary_Branch_Length_Bottom	
+S01_55419661	expressed protei	1	mean	Sobic.001G280900	0.777026	S01_55073901	55049534	55062463	-	Primary_Branch_Top	
+S01_68077236	expressed protei	1	diff	Sobic.001G394600		S01_68077236	68065513	68069308	+	Primary_Branch_Length_Bottom	
+S01_68077236	expressed protei	1	diff	Sobic.001G394900		S01_68077236	68086767	68090555	-	Primary_Branch_Length_Bottom	
+S01_68077236	expressed protei	1	diff	Sobic.001G395000		S01_68077236	68092163	68094391	-	Primary_Branch_Length_Bottom	
+S01_78466406	expressed protei	1	mean	Sobic.001G518300	1	S01_78466406	78456356	78461928	+	Rahcis_Length	
+S01_79684513	expressed protei	1	mean	Sobic.001G533900	1	S01_79684513	79696708	79700548	-	Primary_Branch_Top	
+S02_61339811	expressed protei	2	mean	Sobic.002G221600	1	S02_61339811	61346933	61350200	+	Rahcis_Diameter	
+S04_7543798	expressed protei	4	mean	Sobic.004G088600	1	S04_7543798	7539559	7540405	+	Rahcis_Length	
+S04_7543798	expressed protei	4	mean	Sobic.004G088700	1	S04_7543798	7541014	7544458	-	Rahcis_Length	
+S04_7543798	expressed protei	4	mean	Sobic.004G089100	1	S04_7543798	7558341	7558745	+	Rahcis_Length	
+S04_8955384	expressed protei	4	mean	Sobic.004G100000	1	S04_8955384	8953746	8954956	+	Rahcis_Diameter	
+S04_8955384	expressed protei	4	mean	Sobic.004G100000	1	S04_8955399	8953746	8954956	+	Rahcis_Diameter	
+S04_8955384	expressed protei	4	mean	Sobic.004G100000	1	S04_8955402	8953746	8954956	+	Rahcis_Diameter	
+S04_8955384	expressed protei	4	mean	Sobic.004G100100	1	S04_8955384	8958281	8958716	-	Rahcis_Diameter	
+S04_8955384	expressed protei	4	mean	Sobic.004G100100	1	S04_8955399	8958281	8958716	-	Rahcis_Diameter	
+S04_8955384	expressed protei	4	mean	Sobic.004G100100	1	S04_8955402	8958281	8958716	-	Rahcis_Diameter	
+S05_354065	expressed protei	5	mean	Sobic.005G004600	1	S05_354065	361860	364978	+	Primary_Branch_Bottom	
+S06_43019594	expressed protei	6	mean	Sobic.006G067900	0.7267	S06_42828145	42825191	42830591	+	Tertiary_Branches	
+S06_42749488	expressed protei	6	mean	Sobic.006G068200	0.71075	S06_42850491	42845276	42846733	+	Rahcis_Length	
+S06_42749488	expressed protei	6	mean	Sobic.006G068200	0.718402	S06_42850499	42845276	42846733	+	Rahcis_Length	
+S06_43019594	expressed protei	6	mean	Sobic.006G068200	0.7267	S06_42828145	42845276	42846733	+	Tertiary_Branches	
+S06_43019594	expressed protei	6	mean	Sobic.006G068200	0.772142	S06_42850491	42845276	42846733	+	Tertiary_Branches	
+S06_43019594	expressed protei	6	mean	Sobic.006G068200	0.764527	S06_42850499	42845276	42846733	+	Tertiary_Branches	
+S06_43019594	expressed protei	6	mean	Sobic.006G068200	0.715272	S06_42861748	42845276	42846733	+	Tertiary_Branches	
+S06_42749488	expressed protei	6	mean	Sobic.006G068200	0.71075	S06_42850491	42845276	42846733	+	Infloresence_Length	
+S06_42749488	expressed protei	6	mean	Sobic.006G068200	0.718402	S06_42850499	42845276	42846733	+	Infloresence_Length	
+S06_54876898	expressed protei	6	mean	Sobic.006G193500	0.704428	S06_54688705	54688995	54690672	-	Primary_Branch_Number	
+S06_54876898	expressed protei	6	mean	Sobic.006G195600	1	S06_54876898	54858686	54860326	+	Primary_Branch_Number	
+S06_56838554	expressed protei	6	mean	Sobic.006G221600	1	S06_56838554	56821438	56832732	-	Primary_Branch_Bottom	
+S08_2119686	expressed protei	8	mean	Sobic.008G024000	1	S08_2119686	2122063	2123394	+	Primary_Branch_Number	
+S08_3151276	expressed protei	8	mean	Sobic.008G034300	1	S08_3151276	3164621	3167507	+	Infloresence_Length	
+S08_52125933	expressed protei	8	mean	Sobic.008G113400	1	S08_52125933	52134038	52136884	+	Rahcis_Length	
+S08_59743588	expressed protei	8	mean	Sobic.008G163800	1	S08_59743588	59737801	59741120	-	Rahcis_Length	
+S08_59743588	expressed protei	8	mean	Sobic.008G163800	1	S08_59743589	59737801	59741120	-	Rahcis_Length	
+S08_60586443	expressed protei	8	mean	Sobic.008G172400	1	S08_60586443	60582133	60584643	-	Rahcis_Length	
+S08_62515307	expressed protei	8	mean	Sobic.008G191400	1	S08_62515307	62522471	62527298	+	Primary_Branch_Top	
+S09_3826048	expressed protei	9	mean	Sobic.009G039800	1	S09_3826048	3804392	3811545	+	Tertiary_Branches	
+S09_3826048	expressed protei	9	mean	Sobic.009G039800	0.793892	S09_3826084	3804392	3811545	+	Tertiary_Branches	
+S10_2345697	expressed protei	10	mean	Sobic.010G029000	1	S10_2345697	2347973	2349893	-	Infloresence_Length	
+S10_54576163	expressed protei	10	diff	Sobic.010G202900		S10_54576163	54567812	54571263	+	Rachis_Diameter	
+S02_12355636	FAS1, putative, expressed	2	diff	Sobic.002G104300		S02_12355636	12343611	12351763	-	Primary_Branch_Length_Top	
+S01_78466406	fatty acid hydroxylase, putative, expressed	1	mean	Sobic.001G518600	1	S01_78466406	78477993	78481323	+	Rahcis_Length	
+S05_354065	ferritin-1, chloroplast precursor, putative, expressed	5	mean	Sobic.005G004500	1	S05_354065	353420	357540	-	Primary_Branch_Bottom	
+S01_68077236	fip1 motif family protein, expressed	1	diff	Sobic.001G394700		S01_68077236	68069924	68070349	+	Primary_Branch_Length_Bottom	
+S06_59371744	flavonol synthase/flavanone 3-hydroxylase, putative, expressed	6	mean	Sobic.006G257400	1	S06_59371744	59380710	59384053	+	Primary_Branch_Top	
+S06_59371744	flavonol synthase/flavanone 3-hydroxylase, putative, expressed	6	mean	Sobic.006G257500	1	S06_59371744	59390001	59391444	-	Primary_Branch_Top	
+S05_354065	GIL1, putative, expressed	5	mean	Sobic.005G004200	1	S05_354065	334683	335870	-	Primary_Branch_Bottom	
+S06_5754774	glucose-6-phosphate 1-dehydrogenase, chloroplast precursor, putative, expressed	6	mean	Sobic.006G030800	0.830745	S06_6520270	6518696	6524700	+	Primary_Branch_Top	
+S06_54876898	glutamate receptor, putative, expressed	6	mean	Sobic.006G193200	0.704428	S06_54688705	54672671	54678483	-	Primary_Branch_Number	
+S06_5754774	glycosyl hydrolase family 10 protein, putative, expressed	6	mean	Sobic.006G032800	0.797523	S06_7362600	7365479	7369506	+	Primary_Branch_Top	
+S02_77637744	glycosyltransferase family 43 protein, putative, expressed	2	mean	Sobic.002G430700	1	S02_77637744	77645280	77652584	-	Infloresence_Length	
+S10_2345697	HAD superfamily phosphatase, putative, expressed	10	mean	Sobic.010G029300	1	S10_2345697	2359207	2361866	+	Infloresence_Length	
+S02_63249141	heat shock protein, putative, expressed	2	mean	Sobic.002G243500	1	S02_63249141	63252127	63255947	+	Primary_Branch_Top	
+S06_54876898	heavy-metal-associated domain-containing protein, putative, expressed	6	mean	Sobic.006G197000	0.703289	S06_54958199	54948645	54950801	+	Primary_Branch_Number	
+S06_54876898	heavy-metal-associated domain-containing protein, putative, expressed	6	mean	Sobic.006G197000	0.824386	S06_54958229	54948645	54950801	+	Primary_Branch_Number	
+S10_3974797	hydrolase, alpha/beta fold family domain containing protein, expressed	10	mean	Sobic.010G051300	1	S10_3974797	3975458	3979642	-	Primary_Branch_Number	
+S06_43019594	hydrolase, alpha/beta fold family protein, putative, expressed	6	mean	Sobic.006G068700	0.761222	S06_43165052	43181421	43182244	+	Tertiary_Branches	
+S06_43019594	hydrolase, alpha/beta fold family protein, putative, expressed	6	mean	Sobic.006G068700	0.761222	S06_43165064	43181421	43182244	+	Tertiary_Branches	
+S03_51175602	hydrolase, putative, expressed	3	mean	Sobic.003G190500	1	S03_51175602	51167150	51172379	-	Primary_Branch_Bottom	
+S03_51175602	hydrolase, putative, expressed	3	mean	Sobic.003G190500	1	S03_51175628	51167150	51172379	-	Primary_Branch_Bottom	
+S01_79684513	kinesin motor domain containing protein, putative, expressed	1	mean	Sobic.001G534000	1	S01_79684513	79700804	79707763	-	Primary_Branch_Top	
+S06_59371744	kinesin motor domain containing protein, putative, expressed	6	mean	Sobic.006G257200	1	S06_59371744	59354479	59364312	-	Primary_Branch_Top	
+S07_60133062	lactate/malate dehydrogenase, putative, expressed	7	mean	Sobic.007G166200	1	S07_60133062	60144110	60147894	-	Rahcis_Length	
+S07_59984297	lactate/malate dehydrogenase, putative, expressed	7	mean	Sobic.007G166200	0.770368	S07_60133062	60144110	60147894	-	Infloresence_Length	
+S07_60133062	lactate/malate dehydrogenase, putative, expressed	7	mean	Sobic.007G166300	1	S07_60133062	60149510	60153216	-	Rahcis_Length	
+S07_59984297	lactate/malate dehydrogenase, putative, expressed	7	mean	Sobic.007G166300	0.770368	S07_60133062	60149510	60153216	-	Infloresence_Length	
+S08_62515307	lipoxygenase, putative, expressed	8	mean	Sobic.008G191000	1	S08_62515307	62495797	62499472	+	Primary_Branch_Top	
+S04_50040312	LITAF-domain-containing protein, putative, expressed	4	diff	Sobic.004G157800		S04_50040312	50048619	50056462	-	Primary_Branch	
+S05_10744066	LTPL33 - Protease inhibitor/seed storage/LTP family protein precursor, expressed	5	diff	Sobic.005G081800		S05_10744066	10759189	10759844	-	Rachis_Length	
+S06_56838554	MBTB7 - Bric-a-Brac, Tramtrack, Broad Complex BTB domain with Meprin and TRAF Homology MATH domain, expressed	6	mean	Sobic.006G221700	1	S06_56838554	56833185	56834159	+	Primary_Branch_Bottom	
+S06_56838554	MBTB7 - Bric-a-Brac, Tramtrack, Broad Complex BTB domain with Meprin and TRAF Homology MATH domain, expressed	6	mean	Sobic.006G221900	1	S06_56838554	56849951	56851049	+	Primary_Branch_Bottom	
+S06_56838554	MBTB7 - Bric-a-Brac, Tramtrack, Broad Complex BTB domain with Meprin and TRAF Homology MATH domain, expressed	6	mean	Sobic.006G222000	1	S06_56838554	56854289	56856099	+	Primary_Branch_Bottom	
+S10_7457863	MCM9 - Putative minichromosome maintenance MCM family subunit 9, expressed	10	mean	Sobic.010G087100	1	S10_7457863	7464669	7474292	-	Primary_Branch_Top	
+S02_61339811	microtubule associated protein, putative, expressed	2	mean	Sobic.002G221700	1	S02_61339811	61350537	61355566	-	Rahcis_Diameter	
+S01_79684513	mitochondrial import inner membrane translocase subunit Tim, putative, expressed	1	mean	Sobic.001G533500	1	S01_79684513	79665658	79667803	+	Primary_Branch_Top	
+S05_354065	MRH1, putative, expressed	5	mean	Sobic.005G004300	1	S05_354065	337906	341873	-	Primary_Branch_Bottom	
+S07_62587527	MTA/SAH nucleosidase, putative, expressed	7	diff	Sobic.007G193200		S07_62587527	62578262	62583771	-	Primary_Branch_Length_Top	
+S06_54876898	multidrug resistance-associated protein, putative, expressed	6	mean	Sobic.006G195800	1	S06_54876898	54881149	54889652	+	Primary_Branch_Number	
+S09_3826048	myb-like DNA-binding domain, SHAQKYF class family protein, expressed	9	mean	Sobic.009G039900	1	S09_3826048	3825312	3826319	-	Tertiary_Branches	
+S09_3826048	myb-like DNA-binding domain, SHAQKYF class family protein, expressed	9	mean	Sobic.009G039900	0.793892	S09_3826084	3825312	3826319	-	Tertiary_Branches	
+S09_3826048	myb-like DNA-binding domain, SHAQKYF class family protein, expressed	9	mean	Sobic.009G040000	1	S09_3826048	3832716	3833847	-	Tertiary_Branches	
+S09_3826048	myb-like DNA-binding domain, SHAQKYF class family protein, expressed	9	mean	Sobic.009G040000	0.793892	S09_3826084	3832716	3833847	-	Tertiary_Branches	
+S08_62515307	N-acetylglucosaminyltransferase, putative, expressed	8	mean	Sobic.008G191500	1	S08_62515307	62528298	62531964	+	Primary_Branch_Top	
+S03_64735569	NADPH-dependent FMN reductase domain containing protein, expressed	3	diff	Sobic.003G319700		S03_64735569	64746042	64749771	+	Rachis_Diameter	
+S07_60133062	o apical meristem protein, putative, expressed	7	mean	Sobic.007G166100	1	S07_60133062	60137051	60141707	+	Rahcis_Length	
+S07_59984297	o apical meristem protein, putative, expressed	7	mean	Sobic.007G166100	0.770368	S07_60133062	60137051	60141707	+	Infloresence_Length	
+S08_62515307	odulin, putative, expressed	8	mean	Sobic.008G191100	1	S08_62515307	62502575	62505214	+	Primary_Branch_Top	
+S06_56838554	one cut domain family member 3, putative, expressed	6	mean	Sobic.006G246100	0.747685	S06_58549348	58547742	58548954	-	Primary_Branch_Bottom	
+S01_50330746	OsClp10 - Putative Clp protease homologue, expressed	1	diff	Sobic.001G266000		S01_50330746	50333413	50333798	-	Rachis_Diameter	
+S10_7457863	OsFBX187 - F-box domain containing protein, expressed	10	mean	Sobic.010G086900	1	S10_7457863	7456034	7458702	+	Primary_Branch_Top	
+S06_42749488	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	0.982314	S06_42749438	42758806	42759413	-	Rahcis_Length	
+S06_42749488	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	0.968238	S06_42749461	42758806	42759413	-	Rahcis_Length	
+S06_42749488	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	0.968238	S06_42749465	42758806	42759413	-	Rahcis_Length	
+S06_42749488	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	1	S06_42749488	42758806	42759413	-	Rahcis_Length	
+S06_43019594	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	0.728185	S06_42749438	42758806	42759413	-	Tertiary_Branches	
+S06_43019594	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	0.709779	S06_42749461	42758806	42759413	-	Tertiary_Branches	
+S06_43019594	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	0.709779	S06_42749465	42758806	42759413	-	Tertiary_Branches	
+S06_43019594	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	0.712959	S06_42749488	42758806	42759413	-	Tertiary_Branches	
+S06_42749488	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	0.982314	S06_42749438	42758806	42759413	-	Infloresence_Length	
+S06_42749488	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	0.968238	S06_42749461	42758806	42759413	-	Infloresence_Length	
+S06_42749488	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	0.968238	S06_42749465	42758806	42759413	-	Infloresence_Length	
+S06_42749488	OsFBX206 - F-box domain containing protein, expressed	6	mean	Sobic.006G067150	1	S06_42749488	42758806	42759413	-	Infloresence_Length	
+S08_59743588	OsFBX251 - F-box domain containing protein, expressed	8	mean	Sobic.008G163900	1	S08_59743588	59750950	59752272	-	Rahcis_Length	
+S08_59743588	OsFBX251 - F-box domain containing protein, expressed	8	mean	Sobic.008G163900	1	S08_59743589	59750950	59752272	-	Rahcis_Length	
+S08_59743588	OsFBX254 - F-box domain containing protein, expressed	8	mean	Sobic.008G164000	1	S08_59743588	59757061	59758287	-	Rahcis_Length	
+S08_59743588	OsFBX254 - F-box domain containing protein, expressed	8	mean	Sobic.008G164000	1	S08_59743589	59757061	59758287	-	Rahcis_Length	
+S04_7543798	OsFBX390 - F-box domain containing protein, expressed	4	mean	Sobic.004G088800	1	S04_7543798	7544633	7546313	-	Rahcis_Length	
+S04_7671516	OsFBX46 - F-box domain containing protein, expressed	4	mean	Sobic.004G090300	1	S04_7671516	7670976	7672253	-	Primary_Branch_Top	
+S04_7671516	OsFBX46 - F-box domain containing protein, expressed	4	mean	Sobic.004G090300	0.749663	S04_7671543	7670976	7672253	-	Primary_Branch_Top	
+S06_56838554	OsFBX46 - F-box domain containing protein, expressed	6	mean	Sobic.006G221800	1	S06_56838554	56837475	56845876	+	Primary_Branch_Bottom	
+S01_6673848	OsMADS34 - MADS-box family gene with MIKCc type-box, expressed	1	mean	Sobic.001G086400	1	S01_6673844	6679217	6686323	+	Primary_Branch_Number	
+S01_6673848	OsMADS34 - MADS-box family gene with MIKCc type-box, expressed	1	mean	Sobic.001G086400	1	S01_6673848	6679217	6686323	+	Primary_Branch_Number	
+S07_62587527	OsMADS7 - MADS-box family gene with MIKCc type-box, expressed	7	diff	Sobic.007G193300		S07_62587527	62587839	62595684	-	Primary_Branch_Length_Top	
+S10_2345697	OsMADS75 - MADS-box family gene with M-alpha type-box, expressed	10	mean	Sobic.010G029200	1	S10_2345697	2357904	2358796	-	Infloresence_Length	
+S01_15300729	OsMADS87 - MADS-box family gene with M-gamma type-box, expressed	1	diff	Sobic.001G180600		S01_15300729	15314759	15315718	+	Primary_Branch_Length_Bottom	
+S01_15300729	OsMADS89 - MADS-box family gene with M-gamma type-box, expressed	1	diff	Sobic.001G180400		S01_15300729	15302275	15303528	+	Primary_Branch_Length_Bottom	
+S10_3974797	OsPDIL1-5 protein disulfide isomerase PDIL1-5, expressed	10	mean	Sobic.010G051100	1	S10_3974797	3959331	3965046	-	Primary_Branch_Number	
+S05_64145330	OsSub18 - Putative Subtilisin homologue, expressed	5	diff	Sobic.005G165500		S05_64145330	64134373	64139920	-	Primary_Branch_Length_Top	
+S10_3974797	OsSub49 - Putative Subtilisin homologue, expressed	10	mean	Sobic.010G051200	1	S10_3974797	3966100	3974850	+	Primary_Branch_Number	
+S10_2345697	OsWAK119 - OsWAK receptor-like cytoplasmic kinase OsWAK-RLCK, expressed	10	mean	Sobic.010G028950	1	S10_2345697	2344000	2346173	-	Infloresence_Length	
+S10_2345697	oxidoreductase, 2OG-Fe oxygenase family protein, putative, expressed	10	mean	Sobic.010G028800	1	S10_2345697	2336435	2341589	+	Infloresence_Length	
+S10_54576163	paxneb-related protein, putative, expressed	10	diff	Sobic.010G203300		S10_54576163	54592608	54595819	-	Rachis_Diameter	
+S02_77637744	PCNA - Putative DNA replicative polymerase clamp, expressed	2	mean	Sobic.002G431700	0.769847	S02_77726508	77734349	77737266	-	Infloresence_Length	
+S10_2345697	pentatricopeptide, putative, expressed	10	mean	Sobic.010G028700	1	S10_2345697	2332658	2334916	-	Infloresence_Length	
+S05_59697662	peptidase, M24 family protein, putative, expressed	5	diff	Sobic.005G140500		S05_59697662	59694917	59707211	+	Rachis_Length	
+S10_2345697	peptidase, T1 family, putative, expressed	10	mean	Sobic.010G029400	1	S10_2345697	2362354	2366090	-	Infloresence_Length	
+S10_16403525	peptide transporter PTR2, putative, expressed	10	mean	Sobic.010G127800	1	S10_16403525	16383448	16385836	-	Primary_Branch_Bottom	
+S06_56838554	peroxidase precursor, putative, expressed	6	mean	Sobic.006G277550	0.747685	S10_60857570	60839229	60840639	-	Primary_Branch_Bottom	
+S06_56838554	peroxidase precursor, putative, expressed	6	mean	Sobic.006G277600	0.747685	S10_60857570	60846473	60847987	-	Primary_Branch_Bottom	
+S06_56838554	peroxidase precursor, putative, expressed	6	mean	Sobic.006G277700	0.747685	S10_60857570	60850342	60851907	-	Primary_Branch_Bottom	
+S06_56838554	peroxidase precursor, putative, expressed	6	mean	Sobic.006G277800	0.747685	S10_60857570	60874713	60876219	-	Primary_Branch_Bottom	
+S01_15300729	peroxisomal membrane protein, putative, expressed	1	diff	Sobic.001G180200		S01_15300729	15278638	15284275	-	Primary_Branch_Length_Bottom	
+S08_60586443	peroxisome assembly protein, putative, expressed	8	mean	Sobic.008G172300	1	S08_60586443	60576066	60580862	+	Rahcis_Length	
+S03_60648881	phosphatidylinositol transfer, putative, expressed	3	diff	Sobic.003G269800		S03_60648881	60655948	60661149	-	Primary_Branch_Length_Bottom	
+S06_56838554	phospholipase C, putative, expressed	6	mean	Sobic.006G277750	0.747685	S10_60857570	60863071	60864519	-	Primary_Branch_Bottom	
+S04_8955384	plastocyanin-like domain containing protein, putative, expressed	4	mean	Sobic.004G100300	1	S04_8955384	8964241	8965521	+	Rahcis_Diameter	
+S04_8955384	plastocyanin-like domain containing protein, putative, expressed	4	mean	Sobic.004G100300	1	S04_8955399	8964241	8965521	+	Rahcis_Diameter	
+S04_8955384	plastocyanin-like domain containing protein, putative, expressed	4	mean	Sobic.004G100300	1	S04_8955402	8964241	8965521	+	Rahcis_Diameter	
+S10_7457863	plastocyanin-like domain containing protein, putative, expressed	10	mean	Sobic.010G086800	1	S10_7457863	7453988	7455591	+	Primary_Branch_Top	
+S06_56838554	PPR repeat domain containing protein, putative, expressed	6	mean	Sobic.006G245800	0.747685	S06_58549348	58535274	58539822	-	Primary_Branch_Bottom	
+S07_52775961	PPR repeat domain containing protein, putative, expressed	7	diff	Sobic.007G123100		S07_52775961	52787679	52793975	+	Primary_Branch	
+S02_77637744	protein kinase APK1B, chloroplast precursor, putative, expressed	2	mean	Sobic.002G431600	0.769847	S02_77726508	77721344	77724954	+	Infloresence_Length	
+S06_56838554	protein kinase domain containing protein, expressed	6	mean	Sobic.006G246400	0.747685	S06_58549348	58558191	58559923	-	Primary_Branch_Bottom	
+S10_54576163	protein kinase domain containing protein, expressed	10	diff	Sobic.010G203200		S10_54576163	54588246	54592056	+	Rachis_Diameter	
+S06_56838554	protein kinase, putative, expressed	6	mean	Sobic.006G246200	0.747685	S06_58549348	58549807	58552111	+	Primary_Branch_Bottom	
+S06_56838554	protein kinase, putative, expressed	6	mean	Sobic.006G246300	0.747685	S06_58549348	58553603	58556010	+	Primary_Branch_Bottom	
+S04_8955384	protein phosphatase 1 regulatory subunit SDS22, putative, expressed	4	mean	Sobic.004G100200	1	S04_8955384	8958848	8964037	+	Rahcis_Diameter	
+S04_8955384	protein phosphatase 1 regulatory subunit SDS22, putative, expressed	4	mean	Sobic.004G100200	1	S04_8955399	8958848	8964037	+	Rahcis_Diameter	
+S04_8955384	protein phosphatase 1 regulatory subunit SDS22, putative, expressed	4	mean	Sobic.004G100200	1	S04_8955402	8958848	8964037	+	Rahcis_Diameter	
+S03_61179123	protein phosphatase 2C, putative, expressed	3	diff	Sobic.003G275501		S03_61179123	61181064	61186206	+	Primary_Branch_Length_Bottom	
+S06_42749488	RCLEA6 - Root cap and Late embryogenesis related family protein precursor, expressed	6	mean	Sobic.006G068000	0.71075	S06_42850491	42831323	42832956	+	Rahcis_Length	
+S06_42749488	RCLEA6 - Root cap and Late embryogenesis related family protein precursor, expressed	6	mean	Sobic.006G068000	0.718402	S06_42850499	42831323	42832956	+	Rahcis_Length	
+S06_43019594	RCLEA6 - Root cap and Late embryogenesis related family protein precursor, expressed	6	mean	Sobic.006G068000	0.7267	S06_42828145	42831323	42832956	+	Tertiary_Branches	
+S06_43019594	RCLEA6 - Root cap and Late embryogenesis related family protein precursor, expressed	6	mean	Sobic.006G068000	0.772142	S06_42850491	42831323	42832956	+	Tertiary_Branches	
+S06_43019594	RCLEA6 - Root cap and Late embryogenesis related family protein precursor, expressed	6	mean	Sobic.006G068000	0.764527	S06_42850499	42831323	42832956	+	Tertiary_Branches	
+S06_42749488	RCLEA6 - Root cap and Late embryogenesis related family protein precursor, expressed	6	mean	Sobic.006G068000	0.71075	S06_42850491	42831323	42832956	+	Infloresence_Length	
+S06_42749488	RCLEA6 - Root cap and Late embryogenesis related family protein precursor, expressed	6	mean	Sobic.006G068000	0.718402	S06_42850499	42831323	42832956	+	Infloresence_Length	
+S06_5754774	receptor kinase, putative, expressed	6	mean	Sobic.006G030700	0.830745	S06_6520270	6511972	6515188	+	Primary_Branch_Top	
+S09_6188158	receptor-like protein kinase precursor, putative, expressed	9	diff	Sobic.009G058900		S09_6188158	6170384	6173568	-	Rachis_Length	
+S03_5914378	regulator of ribonuclease, putative, expressed	3	diff	Sobic.003G069100		S03_5914378	5907502	5908099	-	Primary_Branch_Length_Bottom	
+S06_54876898	regulatory protein, putative, expressed	6	mean	Sobic.006G193400	0.704428	S06_54688705	54685461	54688672	-	Primary_Branch_Number	
+S06_5754774	retrotransposon protein, putative, unclassified, expressed	6	mean	Sobic.006G033001	0.797523	S06_7493364	7505109	7508651	+	Primary_Branch_Top	
+S06_5754774	retrotransposon protein, putative, unclassified, expressed	6	mean	Sobic.006G033001	0.749473	S06_7522159	7505109	7508651	+	Primary_Branch_Top	
+S06_5754774	retrotransposon protein, putative, unclassified, expressed	6	mean	Sobic.006G033001	0.797523	S06_7523501	7505109	7508651	+	Primary_Branch_Top	
+S06_5754774	rhodanese-like domain containing protein, putative, expressed	6	mean	Sobic.006G032700	0.797523	S06_7362600	7357701	7362253	+	Primary_Branch_Top	
+S02_77637744	ribosomal protein, putative, expressed	2	mean	Sobic.002G430800	1	S02_77637744	77655600	77656793	-	Infloresence_Length	
+S08_60586443	ribosomal protein, putative, expressed	8	mean	Sobic.008G172100	1	S08_60586443	60566217	60568995	-	Rahcis_Length	
+S03_61179123	ribosomal RNA assembly protein mis3, putative, expressed	3	diff	Sobic.003G275600		S03_61179123	61188755	61192243	+	Primary_Branch_Length_Bottom	
+S06_42749488	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	0.982314	S06_42749438	42753303	42756717	-	Rahcis_Length	
+S06_42749488	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	0.968238	S06_42749461	42753303	42756717	-	Rahcis_Length	
+S06_42749488	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	0.968238	S06_42749465	42753303	42756717	-	Rahcis_Length	
+S06_42749488	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	1	S06_42749488	42753303	42756717	-	Rahcis_Length	
+S06_43019594	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	0.728185	S06_42749438	42753303	42756717	-	Tertiary_Branches	
+S06_43019594	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	0.709779	S06_42749461	42753303	42756717	-	Tertiary_Branches	
+S06_43019594	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	0.709779	S06_42749465	42753303	42756717	-	Tertiary_Branches	
+S06_43019594	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	0.712959	S06_42749488	42753303	42756717	-	Tertiary_Branches	
+S06_42749488	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	0.982314	S06_42749438	42753303	42756717	-	Infloresence_Length	
+S06_42749488	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	0.968238	S06_42749461	42753303	42756717	-	Infloresence_Length	
+S06_42749488	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	0.968238	S06_42749465	42753303	42756717	-	Infloresence_Length	
+S06_42749488	ribosome inactivating protein, putative, expressed	6	mean	Sobic.006G067100	1	S06_42749488	42753303	42756717	-	Infloresence_Length	
+S07_60133062	RING-H2 finger protein ATL5G, putative, expressed	7	mean	Sobic.007G165000	0.770368	S07_59984297	59985843	59988226	+	Rahcis_Length	
+S07_59984297	RING-H2 finger protein ATL5G, putative, expressed	7	mean	Sobic.007G165000	1	S07_59984297	59985843	59988226	+	Infloresence_Length	
+S01_79684513	RNA binding protein, putative, expressed	1	mean	Sobic.001G533800	1	S01_79684513	79695181	79697320	+	Primary_Branch_Top	
+S03_51175602	rossmann fold nucleotide-binding protein involved in DNA uptake, putative, expressed	3	mean	Sobic.003G190400	1	S03_51175602	51161771	51165841	-	Primary_Branch_Bottom	
+S03_51175602	rossmann fold nucleotide-binding protein involved in DNA uptake, putative, expressed	3	mean	Sobic.003G190400	1	S03_51175628	51161771	51165841	-	Primary_Branch_Bottom	
+S06_56838554	S-locus-like receptor protein kinase, putative, expressed	6	mean	Sobic.006G246001	0.747685	S06_58549348	58545788	58547007	+	Primary_Branch_Bottom	
+S03_60648881	SAM dependent carboxyl methyltransferase, putative, expressed	3	diff	Sobic.003G269700		S03_60648881	60641363	60644656	-	Primary_Branch_Length_Bottom	
+S06_54876898	sensitivity to red light reduced protein 1, putative, expressed	6	mean	Sobic.006G195900	1	S06_54876898	54890234	54894352	-	Primary_Branch_Number	
+S06_42749488	Ser/Thr protein phosphatase family protein, putative, expressed	6	mean	Sobic.006G068100	0.71075	S06_42850491	42833573	42835724	-	Rahcis_Length	
+S06_42749488	Ser/Thr protein phosphatase family protein, putative, expressed	6	mean	Sobic.006G068100	0.718402	S06_42850499	42833573	42835724	-	Rahcis_Length	
+S06_43019594	Ser/Thr protein phosphatase family protein, putative, expressed	6	mean	Sobic.006G068100	0.7267	S06_42828145	42833573	42835724	-	Tertiary_Branches	
+S06_43019594	Ser/Thr protein phosphatase family protein, putative, expressed	6	mean	Sobic.006G068100	0.772142	S06_42850491	42833573	42835724	-	Tertiary_Branches	
+S06_43019594	Ser/Thr protein phosphatase family protein, putative, expressed	6	mean	Sobic.006G068100	0.764527	S06_42850499	42833573	42835724	-	Tertiary_Branches	
+S06_42749488	Ser/Thr protein phosphatase family protein, putative, expressed	6	mean	Sobic.006G068100	0.71075	S06_42850491	42833573	42835724	-	Infloresence_Length	
+S06_42749488	Ser/Thr protein phosphatase family protein, putative, expressed	6	mean	Sobic.006G068100	0.718402	S06_42850499	42833573	42835724	-	Infloresence_Length	
+S10_3974797	Ser/Thr protein phosphatase family protein, putative, expressed	10	mean	Sobic.010G051500	1	S10_4005276	4006575	4011539	-	Primary_Branch_Number	
+S07_60133062	SNARE domain containing protein, putative, expressed	7	mean	Sobic.007G165300	0.770368	S07_59984297	59998003	60001289	+	Rahcis_Length	
+S07_59984297	SNARE domain containing protein, putative, expressed	7	mean	Sobic.007G165300	1	S07_59984297	59998003	60001289	+	Infloresence_Length	
+S01_55419661	START domain containing protein, expressed	1	mean	Sobic.001G281100	0.777026	S01_55073901	55064062	55072521	-	Primary_Branch_Top	
+S01_55419661	START domain containing protein, expressed	1	mean	Sobic.001G281201	0.777026	S01_55073901	55079606	55082149	-	Primary_Branch_Top	
+S01_79684513	STE_PAK_Ste20_STLK.3 - STE kinases include homologs to sterile 7, sterile 11 and sterile 20 from yeast, expressed	1	mean	Sobic.001G533700	1	S01_79684513	79678194	79686605	-	Primary_Branch_Top	
+S04_7543798	sterol glucosyltransferase, putative, expressed	4	mean	Sobic.004G089000	1	S04_7543798	7551965	7557542	+	Rahcis_Length	
+S04_7543798	syntaxin, putative, expressed	4	mean	Sobic.004G088900	1	S04_7543798	7548556	7550015	-	Rahcis_Length	
+S06_59371744	tafazzin, putative, expressed	6	mean	Sobic.006G257300	1	S06_59371744	59371515	59374604	-	Primary_Branch_Top	
+S01_68077236	tetratricopeptide repeat domain containing protein, expressed	1	diff	Sobic.001G394800		S01_68077236	68070827	68086361	+	Primary_Branch_Length_Bottom	
+S01_51108132	thaumatin-like protein 1 precursor, putative, expressed	1	mean	Sobic.001G267800	1	S01_51108132	51092090	51094503	+	Primary_Branch_Top	
+S10_2345697	TKL_IRAK_DUF26-la.5 - DUF26 kinases have homology to DUF26 containing loci, expressed	10	mean	Sobic.010G028600	1	S10_2345697	2325921	2333577	+	Infloresence_Length	
+S03_5914378	transferase family protein, putative, expressed	3	diff	Sobic.003G069000		S03_5914378	5898809	5900660	-	Primary_Branch_Length_Bottom	
+S03_5914378	transferase family protein, putative, expressed	3	diff	Sobic.003G069200		S03_5914378	5909131	5913165	-	Primary_Branch_Length_Bottom	
+S03_5914378	transferase family protein, putative, expressed	3	diff	Sobic.003G069300		S03_5914378	5916237	5925440	-	Primary_Branch_Length_Bottom	
+S02_63249141	transporter, monovalent cation:proton antiporter-2 family, putative, expressed	2	mean	Sobic.002G243400	1	S02_63249141	63242908	63249296	+	Primary_Branch_Top	
+S06_56838554	transposon protein, putative, unclassified, expressed	6	mean	Sobic.006G245900	0.747685	S06_58549348	58542292	58545126	+	Primary_Branch_Bottom	
+S08_60586443	transposon protein, putative, unclassified, expressed	8	mean	Sobic.008G172200	1	S08_60586443	60570349	60574217	+	Rahcis_Length	
+S05_16252315	ubiquitin family protein, putative, expressed	5	mean	Sobic.005G099400	1	S05_16252315	16259568	16261701	-	Infloresence_Length	
+S05_354065	ubiquitin-activating enzyme, putative, expressed	5	mean	Sobic.005G004400	1	S05_354065	345207	351475	-	Primary_Branch_Bottom	
+S02_63249141	uclear ribonuclease Z, putative, expressed	2	mean	Sobic.002G243650	1	S02_63249141	63258893	63261813	-	Primary_Branch_Top	
+S02_52998308	ucleobase-ascorbate transporter, putative, expressed	2	mean	Sobic.002G168600	1	S02_52998308	52993719	52998637	+	Primary_Branch_Number	
+S06_54876898	ucleolar complex protein, putative, expressed	6	mean	Sobic.006G193300	0.704428	S06_54688705	54679081	54685460	-	Primary_Branch_Number	
+S05_16252315	ucleoside-triphosphatase, putative, expressed	5	mean	Sobic.005G099500	1	S05_16252315	16262698	16266914	+	Infloresence_Length	
+S09_50347176	universal stress protein domain containing protein, putative, expressed	9	mean	Sobic.009G146700	1	S09_50347176	50363127	50366843	-	Primary_Branch_Bottom	
+S08_62515307	vesicle-associated membrane protein, putative, expressed	8	mean	Sobic.008G191600	1	S08_62515307	62532758	62535982	+	Primary_Branch_Top	
+S06_54876898	WD domain, G-beta repeat domain containing protein, expressed	6	mean	Sobic.006G195700	1	S06_54876898	54865268	54873399	+	Primary_Branch_Number	
+S02_12355636	WRKY123, expressed	2	diff	Sobic.002G104400		S02_12355636	12357209	12369100	+	Primary_Branch_Length_Top	
+S01_55419661	WRKY37, expressed	1	mean	Sobic.001G282400	1	S01_55419661	55413200	55415329	-	Primary_Branch_Top	
+S06_5754774	xa21, putative, expressed	6	mean	Sobic.006G030600	0.830745	S06_6520270	6506669	6509557	+	Primary_Branch_Top	
+S08_10167563	ZF-HD protein dimerisation region containing protein, expressed	8	diff	Sobic.008G073200		S08_10167563	10156190	10159500	-	Primary_Branch_Length_Top	
+S10_3974797	zinc finger protein, putative, expressed	10	mean	Sobic.010G051400	1	S10_3974797	3980081	3990381	-	Primary_Branch_Number	
+S03_2616292	zinc finger, C3HC4 type family protein, expressed	3	mean	Sobic.003G029500	1	S03_2616292	2595830	2599790	-	Infloresence_Length	
+S06_54876898	ZOS4-13 - C2H2 zinc finger protein, expressed	6	mean	Sobic.006G197200	0.703289	S06_54958199	54973307	54974544	+	Primary_Branch_Number	
+S06_54876898	ZOS4-13 - C2H2 zinc finger protein, expressed	6	mean	Sobic.006G197200	0.824386	S06_54958229	54973307	54974544	+	Primary_Branch_Number	
+S07_60133062	ZOS8-14 - C2H2 zinc finger protein, expressed	7	mean	Sobic.007G166000	1	S07_60133062	60116057	60119139	+	Rahcis_Length	
+S07_59984297	ZOS8-14 - C2H2 zinc finger protein, expressed	7	mean	Sobic.007G166000	0.770368	S07_60133062	60116057	60119139	+	Infloresence_Length	
+S02_61339811	ZOS9-14 - C2H2 zinc finger protein, expressed	2	mean	Sobic.002G221400	1	S02_61339811	61333318	61337308	+	Rahcis_Diameter	
+S01_6673848		1	mean	Sobic.001G086050	1	S01_6673844	6665470	6671510	-	Primary_Branch_Number	
+S01_6673848		1	mean	Sobic.001G086050	1	S01_6673848	6665470	6671510	-	Primary_Branch_Number	
+S01_6673848		1	mean	Sobic.001G086100	1	S01_6673844	6665465	6666315	+	Primary_Branch_Number	
+S01_6673848		1	mean	Sobic.001G086100	1	S01_6673848	6665465	6666315	+	Primary_Branch_Number	
+S01_51184841		1	mean	Sobic.001G267900	1	S01_51184841	51185433	51189449	-	Primary_Branch_Bottom	
+S01_51184841		1	mean	Sobic.001G267950	1	S01_51184841	51203253	51204417	+	Primary_Branch_Bottom	
+S01_51184841		1	mean	Sobic.001G268000	1	S01_51184841	51200699	51207338	-	Primary_Branch_Bottom	
+S01_78466406		1	mean	Sobic.001G518200	1	S01_78466406	78445022	78451500	+	Rahcis_Length	
+S02_12355636		2	diff	Sobic.002G104450		S02_12355636	12370721	12371068	+	Primary_Branch_Length_Top	
+S02_61339811		2	mean	Sobic.002G221450	1	S02_61339811	61337408	61339673	+	Rahcis_Diameter	
+S02_77637744		2	mean	Sobic.002G430601	1	S02_77637744	77637999	77644749	+	Infloresence_Length	
+S02_77637744		2	mean	Sobic.002G431366	0.769847	S02_77726508	77708877	77711884	-	Infloresence_Length	
+S02_77637744		2	mean	Sobic.002G431400	0.769847	S02_77726508	77709634	77712878	-	Infloresence_Length	
+S02_77637744		2	mean	Sobic.002G431500	0.769847	S02_77726508	77716524	77719235	-	Infloresence_Length	
+S03_60648881		3	diff	Sobic.003G270000		S03_60648881	60667630	60668593	+	Primary_Branch_Length_Bottom	
+S04_7543798		4	mean	Sobic.004G088551	1	S04_7543798	7537831	7538680	-	Rahcis_Length	
+S04_7671516		4	mean	Sobic.004G090400	1	S04_7671516	7685959	7687968	-	Primary_Branch_Top	
+S04_7671516		4	mean	Sobic.004G090400	0.749663	S04_7671543	7685959	7687968	-	Primary_Branch_Top	
+S04_7671516		4	mean	Sobic.004G090500	1	S04_7671516	7690930	7691506	-	Primary_Branch_Top	
+S04_7671516		4	mean	Sobic.004G090500	0.749663	S04_7671543	7690930	7691506	-	Primary_Branch_Top	
+S05_14465326		5	mean	Sobic.005G093200	1	S05_14465326	14449506	14450720	-	Infloresence_Length	
+S05_14465326		5	mean	Sobic.005G093200	1	S05_14465365	14449506	14450720	-	Infloresence_Length	
+S05_16252315		5	mean	Sobic.005G099200	1	S05_16252315	16245049	16249738	-	Infloresence_Length	
+S05_16252315		5	mean	Sobic.005G099300	1	S05_16252315	16250553	16251337	+	Infloresence_Length	
+S06_42749488		6	mean	Sobic.006G067050	0.982314	S06_42749438	42751421	42752998	-	Rahcis_Length	
+S06_42749488		6	mean	Sobic.006G067050	0.968238	S06_42749461	42751421	42752998	-	Rahcis_Length	
+S06_42749488		6	mean	Sobic.006G067050	0.968238	S06_42749465	42751421	42752998	-	Rahcis_Length	
+S06_42749488		6	mean	Sobic.006G067050	1	S06_42749488	42751421	42752998	-	Rahcis_Length	
+S06_43019594		6	mean	Sobic.006G067050	0.728185	S06_42749438	42751421	42752998	-	Tertiary_Branches	
+S06_43019594		6	mean	Sobic.006G067050	0.709779	S06_42749461	42751421	42752998	-	Tertiary_Branches	
+S06_43019594		6	mean	Sobic.006G067050	0.709779	S06_42749465	42751421	42752998	-	Tertiary_Branches	
+S06_43019594		6	mean	Sobic.006G067050	0.712959	S06_42749488	42751421	42752998	-	Tertiary_Branches	
+S06_42749488		6	mean	Sobic.006G067050	0.982314	S06_42749438	42751421	42752998	-	Infloresence_Length	
+S06_42749488		6	mean	Sobic.006G067050	0.968238	S06_42749461	42751421	42752998	-	Infloresence_Length	
+S06_42749488		6	mean	Sobic.006G067050	0.968238	S06_42749465	42751421	42752998	-	Infloresence_Length	
+S06_42749488		6	mean	Sobic.006G067050	1	S06_42749488	42751421	42752998	-	Infloresence_Length	
+S06_42749488		6	mean	Sobic.006G067200	0.982314	S06_42749438	42760512	42761535	-	Rahcis_Length	
+S06_42749488		6	mean	Sobic.006G067200	0.968238	S06_42749461	42760512	42761535	-	Rahcis_Length	
+S06_42749488		6	mean	Sobic.006G067200	0.968238	S06_42749465	42760512	42761535	-	Rahcis_Length	
+S06_42749488		6	mean	Sobic.006G067200	1	S06_42749488	42760512	42761535	-	Rahcis_Length	
+S06_43019594		6	mean	Sobic.006G067200	0.728185	S06_42749438	42760512	42761535	-	Tertiary_Branches	
+S06_43019594		6	mean	Sobic.006G067200	0.709779	S06_42749461	42760512	42761535	-	Tertiary_Branches	
+S06_43019594		6	mean	Sobic.006G067200	0.709779	S06_42749465	42760512	42761535	-	Tertiary_Branches	
+S06_43019594		6	mean	Sobic.006G067200	0.712959	S06_42749488	42760512	42761535	-	Tertiary_Branches	
+S06_42749488		6	mean	Sobic.006G067200	0.982314	S06_42749438	42760512	42761535	-	Infloresence_Length	
+S06_42749488		6	mean	Sobic.006G067200	0.968238	S06_42749461	42760512	42761535	-	Infloresence_Length	
+S06_42749488		6	mean	Sobic.006G067200	0.968238	S06_42749465	42760512	42761535	-	Infloresence_Length	
+S06_42749488		6	mean	Sobic.006G067200	1	S06_42749488	42760512	42761535	-	Infloresence_Length	
+S06_42749488		6	mean	Sobic.006G068350	0.775354	S06_43062682	43066399	43075020	-	Rahcis_Length	
+S06_42749488		6	mean	Sobic.006G068350	0.758243	S06_43062743	43066399	43075020	-	Rahcis_Length	
+S06_43019594		6	mean	Sobic.006G068350	0.850674	S06_43062682	43066399	43075020	-	Tertiary_Branches	
+S06_43019594		6	mean	Sobic.006G068350	0.864313	S06_43062743	43066399	43075020	-	Tertiary_Branches	
+S06_42749488		6	mean	Sobic.006G068350	0.775354	S06_43062682	43066399	43075020	-	Infloresence_Length	
+S06_42749488		6	mean	Sobic.006G068350	0.758243	S06_43062743	43066399	43075020	-	Infloresence_Length	
+S06_43019594		6	mean	Sobic.006G068500	0.761222	S06_43165052	43157107	43158216	-	Tertiary_Branches	
+S06_43019594		6	mean	Sobic.006G068500	0.761222	S06_43165064	43157107	43158216	-	Tertiary_Branches	
+S06_54876898		6	mean	Sobic.006G195750	1	S06_54876898	54866916	54868367	+	Primary_Branch_Number	
+S06_56838554		6	mean	Sobic.006G246350	0.747685	S06_58549348	58556646	58558161	+	Primary_Branch_Bottom	
+S06_59371744		6	mean	Sobic.006G257250	1	S06_59371744	59369108	59371013	+	Primary_Branch_Top	
+S07_60133062		7	mean	Sobic.007G164750	0.770368	S07_59984297	59971368	59972045	+	Rahcis_Length	
+S07_59984297		7	mean	Sobic.007G164750	1	S07_59984297	59971368	59972045	+	Infloresence_Length	
+S07_60133062		7	mean	Sobic.007G165200	0.770368	S07_59984297	59996143	59998135	-	Rahcis_Length	
+S07_59984297		7	mean	Sobic.007G165200	1	S07_59984297	59996143	59998135	-	Infloresence_Length	
+S07_62247625		7	mean	Sobic.007G189500	1	S07_62247625	62236920	62239169	-	Primary_Branch_Bottom	
+S07_62247625		7	mean	Sobic.007G189500	1	S07_62247635	62236920	62239169	-	Primary_Branch_Bottom	
+S07_62247625		7	mean	Sobic.007G189600	1	S07_62247625	62241900	62246209	+	Primary_Branch_Bottom	
+S07_62247625		7	mean	Sobic.007G189600	1	S07_62247635	62241900	62246209	+	Primary_Branch_Bottom	
+S07_62247625		7	mean	Sobic.007G189700	1	S07_62247625	62254884	62256261	+	Primary_Branch_Bottom	
+S07_62247625		7	mean	Sobic.007G189700	1	S07_62247635	62254884	62256261	+	Primary_Branch_Bottom	
+S07_62587527		7	diff	Sobic.007G193400		S07_62587527	62603718	62604379	-	Primary_Branch_Length_Top	
+S08_46210157		8	mean	Sobic.008G097200	0.752891	S08_46278925	46282728	46283136	-	Rahcis_Length	
+S08_46210161		8	mean	Sobic.008G097200	0.752891	S08_46278925	46282728	46283136	-	Infloresence_Length	
+S08_52125933		8	mean	Sobic.008G113350	1	S08_52125933	52124722	52129712	+	Rahcis_Length	
+S08_59743588		8	mean	Sobic.008G163750	1	S08_59743588	59736283	59737793	-	Rahcis_Length	
+S08_59743588		8	mean	Sobic.008G163750	1	S08_59743589	59736283	59737793	-	Rahcis_Length	
+S09_6188158		9	diff	Sobic.009G059000		S09_6188158	6168146	6177040	+	Rachis_Length	
+S10_3974797		10	mean	Sobic.010G051600	1	S10_4005276	4014458	4016200	+	Primary_Branch_Number	
+S10_7457863		10	mean	Sobic.010G086700	1	S10_7457863	7449486	7450150	-	Primary_Branch_Top	
+S10_7457863		10	mean	Sobic.010G087000	1	S10_7457863	7461724	7463164	-	Primary_Branch_Top	
+S10_7457863		10	mean	Sobic.010G087050	1	S10_7457863	7463165	7464099	-	Primary_Branch_Top	
+S10_16403525		10	mean	Sobic.010G127901	1	S10_16403525	16405825	16406790	-	Primary_Branch_Bottom	
+S10_54576163		10	diff	Sobic.010G202800		S10_54576163	54564143	54567693	-	Rachis_Diameter	
+S10_54576163		10	diff	Sobic.010G203000		S10_54576163	54574474	54583871	-	Rachis_Diameter	
+S10_54576163		10	diff	Sobic.010G203100		S10_54576163	54576127	54583871	-	Rachis_Diameter	
+S10_54576163		10	diff	Sobic.010G203150		S10_54576163	54581924	54585696	-	Rachis_Diameter	
